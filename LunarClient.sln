@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarClient", "LunarClient\LunarClient.csproj", "{446CC462-0E30-412F-83DA-366384F95229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446CC462-0E30-412F-83DA-366384F95229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446CC462-0E30-412F-83DA-366384F95229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446CC462-0E30-412F-83DA-366384F95229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446CC462-0E30-412F-83DA-366384F95229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E93405A8-A581-4DD2-81EE-AA043C1CFE43}
+	EndGlobalSection
+EndGlobal
